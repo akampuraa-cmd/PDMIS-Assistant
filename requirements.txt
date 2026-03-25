@@ -1,0 +1,7 @@
+# Ugandan ID Capture – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+numpy>=1.24.0
+pandas>=2.0.0        # optional but recommended for CSV inspection
